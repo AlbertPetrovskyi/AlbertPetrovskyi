@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Albert Petrovskyi
 - 👀 I’m interested in Web3 developing
-- 🌱 I’m currently coding or learning Solidity, HTML, CSS, JS, TS, Python
+- 🌱 I’m currently coding / learning Solidity, HTML, CSS, JS, TS, Python, React
 - 📈 Ethereum public address - 0x6a3188a6f9a9dEe86265953a3f9C03CA8A1ca23f
