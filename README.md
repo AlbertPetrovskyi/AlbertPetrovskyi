@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Albert Petrovskyi
 - 👀 I’m Interested in Web3, AI Developing, Investing and Entrepreneurship
-- 🌱 Solidity, Foundry / HTML, CSS, JS, TS, React, Node JS / Python, TensorFlow, Numpy, OpenCV, MatplotLib
 - 📈 My Ethereum Public Address - 0x6a3188a6f9a9dEe86265953a3f9C03CA8A1ca23f
