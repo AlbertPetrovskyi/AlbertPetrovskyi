@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Albert Kavinsky
-- 👀 I’m Interested in Web3, AI Developing, Investing and Entrepreneurship
+- 👀 I’m Interested in Web3, AI Developing, Robotics, Investing and Entrepreneurship
 - 📈 My Ethereum Public Address - 0x6a3188a6f9a9dEe86265953a3f9C03CA8A1ca23f
