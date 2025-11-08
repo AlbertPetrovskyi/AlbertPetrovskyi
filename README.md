@@ -2,9 +2,3 @@
 - 👀 I’m Interested in Web Design, Frontend Developing, AI Engineering and Web3 Technologies
 - 📈 My Ethereum Public Address - 0x60556D301fd16C1856DB35127FDC9c1Ce7f0A6E3
 - ❤️ Thanks for reading till the end :)
-
-  _|_|    _|_|_|       _|                 _|                                 
-_|    _|    _|               _|_|_|       _|    _|_|    _|      _|    _|_|   
-_|_|_|_|    _|         _|  _|_|           _|  _|    _|  _|      _|  _|_|_|_| 
-_|    _|    _|         _|      _|_|       _|  _|    _|    _|  _|    _|       
-_|    _|  _|_|_|       _|  _|_|_|         _|    _|_|        _|        _|_|_| 
